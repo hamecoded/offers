@@ -1,5 +1,5 @@
 offer
 =====
 
-www.הצעה.co.il
-A Hebrew site for sharing offers of any type
+A website(www.הצעה.co.il) for sharing offers of any type.
+
